@@ -1,9 +1,4 @@
-The first line: Aibar Boranbay.
-The second line: 
-- Re-organized somthing to make it work better.
-- Identified a problem and solvet it.
-- Come up with a new iadea that improved things.
-Other:
-Logical thinker
-Quick learner
-Updated info
+* <h1>Mentoring-HTML-CSS</h1>
+* <h2>Aibar Boranbay</h2>
+* <h2>Graduated from the university, bought a car, traveled to several countries of the world</h2> 
+* <h2> Worked in many places, Spiritually and physically developed in recent years</h2>  
